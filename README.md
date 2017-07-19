@@ -3,6 +3,9 @@
 Sometimes you just need XML. This project is for one of those times where you just need some xml support in Apache Kafka.
 The goal of this project is to aid with storing XML data in [Apache Kafka](http://kafka.apache.org).
 
+
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.jcustenborder.kafka/kafka-jaxb-parent.svg)](http://search.maven.org/#artifactdetails%7Ccom.github.jcustenborder%7Cmaven-central-parent)
+
 # Producing Data
 
 ```java
